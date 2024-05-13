@@ -1,0 +1,1 @@
+game_font = font_add("PressStart2P-Regular.ttf", 12, false, false, 32, 128);
