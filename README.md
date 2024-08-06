@@ -5,5 +5,7 @@
   - collisions between player model, enemy model, bullets, and objects
   - player model animation for movement
   - functional menu screen and tutorial
-
+---
+YouTube video
+---
 [![Watch this video](https://img.youtube.com/vi/zQ4Dco5x6Z4/0.jpg)](https://www.youtube.com/watch?v=zQ4Dco5x6Z4)
